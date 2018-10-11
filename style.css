@@ -1,0 +1,52 @@
+.teal{
+    background-color: teal;
+    color:white;
+}
+
+.tealtext{
+    color: teal;
+}
+
+.Gtext{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.Atext{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.btext{
+    font-weight: bold;
+}
+
+.brand1 {
+    font-size: 24px;
+}
+button1{
+    border:none;
+}
+    button1:hover{
+        background-color: #e89f0c;
+    }
+
+.label {
+    position: relative;
+    top: -50px;
+    text-align: center;
+}
+
+.zero {
+    border:none; 
+
+}
+
+.headerx {
+    background-color:white;
+    border: 2px solid #cccccc;
+}
+.dots{
+    background-image:url("assets/images/tiny-squares/tiny-squares.png")
+}
+.bkgd{
+    background-color:white;
+}
